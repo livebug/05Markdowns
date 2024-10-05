@@ -1,3 +1,10 @@
+---
+title : 'docker 配置Nodejs开发环境'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: ['docker','nodejs']
+categories: ['应用技术']
+---
 # docker 配置Nodejs开发环境
 
 ## 配置私有npm库

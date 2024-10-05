@@ -1,3 +1,10 @@
+---
+title : 'ubuntu 永久挂载硬盘'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: [ubuntu]
+categories: ['应用技术']
+---
 # ubuntu永久挂载硬盘
 
 > 转载 <https://blog.csdn.net/u013171226/article/details/107680262>

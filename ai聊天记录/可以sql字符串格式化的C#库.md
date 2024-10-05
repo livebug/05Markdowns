@@ -1,3 +1,10 @@
+---
+title : 'ai聊天 - C# sql 格式化技术'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: [ai_chat,c#,sql]
+categories: ['应用技术']
+---
 # 可以sql字符串格式化的C#库
 
 在C#中，有一些库可以用来格式化SQL字符串，以下是其中几个比较常用的库：

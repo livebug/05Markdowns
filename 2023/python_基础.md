@@ -1,3 +1,10 @@
+---
+title : 'python 基础'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: ['python']
+categories: ['应用技术']
+---
 ## Python3 print 不换行
 
 在 Python 3.x 中，我们可以在 print() 函数中添加 end="" 参数，这样就可以实现不换行效果。

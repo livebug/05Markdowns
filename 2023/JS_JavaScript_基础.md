@@ -1,7 +1,19 @@
+---
+title : '使用 Node.js 需要了解多少 JavaScript'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: ['nodejs','javascript']
+categories: ['应用技术']
+---
 # 使用 Node.js 需要了解多少 JavaScript
 
 在深入研究 Node.js 之前，我建议您能很好地掌握主要的 JavaScript 概念：
 
+web 端 和 nodejs 的 javascript 不是一回事，两者对于javascript的支持不一样
+
+我们可以这么区别，nodejs 和 javascript
+
+nodejs 对 typescript的支持非常不积极
 
 ## 1. 计算耗时
 
@@ -51,11 +63,9 @@ pkg.prompt(questions).then(answers => {
 + `engines` 设置了此软件包/应用程序在哪个版本的 Node.js 上运行。
 + `browserslist` 用于告知要支持哪些浏览器（及其版本）。
 
-## 4. 代码高亮 `prismjs`
 # 推荐库
 |库|说明|
 |--|---|
 |[`Chalk`](https://github.com/chalk/chalk)|为控制台输出着色的最简单方法是使用库。 Chalk 是一个这样的库，除了为其着色外，它还有助于其他样式的设置（例如使文本变为粗体、斜体或带下划线）。|
 |[readline](http://nodejs.cn/api/readline.html)|Node.js 提供了 readline 模块来执行以下操作：每次一行地从可读流（例如 process.stdin 流，在 Node.js 程序执行期间该流就是终端输入）获取输入。|
 |[Inquirer.js](https://github.com/SBoudrias/Inquirer.js)|Inquirer.js 软件包则提供了更完整、更抽象的解决方案。 命令行交互|
-|[prismjs](https://prismjs.com/#basic-usage) | [PrismJS <i class="bi bi-github"></i>](https://github.com/PrismJS/prism)   是一款轻量级、可扩展的语法高亮显示工具，在支持现代 Web 标准基础下增加了更多可选的风格插件。|

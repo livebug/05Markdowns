@@ -1,3 +1,9 @@
+---
+title : 'title'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+categories: ['应用技术']
+---
 安装前提是要安装git&#x20;
 
 下载 下载页面：[Gitea | gitea](https://dl.gitea.com/gitea/)

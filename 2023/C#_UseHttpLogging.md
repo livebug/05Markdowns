@@ -1,3 +1,10 @@
+---
+title : 'C# UseHttpLogging 使用'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: ['C#']
+categories: ['应用技术']
+---
 # UseHttpLogging
 
 https://docs.microsoft.com/zh-cn/aspnet/core/fundamentals/http-logging/?view=aspnetcore-6.0

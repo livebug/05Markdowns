@@ -1,3 +1,10 @@
+---
+title : 'docker 运行 Verdaccio'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: ['docker','nodejs','verdaccio']
+categories: ['应用技术']
+---
 # docker Running Verdaccio
 
 ```shell

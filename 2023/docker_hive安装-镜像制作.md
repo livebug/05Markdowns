@@ -1,3 +1,10 @@
+---
+title : 'docker 安装 hadoop镜像'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: ['docker','hive']
+categories: ['应用技术']
+---
 ## docker 安装 hadoop镜像
 
 <https://caidao.gitbooks.io/reading-notes/content/you-yi-si-de-jing-li/ji-yu-docker-kuai-su-da-jian-hive-huan-jing.html>

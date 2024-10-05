@@ -1,3 +1,10 @@
+---
+title : 'docker jython 环境搭建'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: ['docker','jython']
+categories: ['应用技术']
+---
 # docker jython 环境搭建
 
 1.  建立容器环境  ubuntu

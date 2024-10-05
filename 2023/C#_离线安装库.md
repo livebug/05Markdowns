@@ -1,3 +1,10 @@
+---
+title : 'C# dotnet 离线安装nuget库'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: ['C#']
+categories: ['应用技术']
+---
 # 离线安装nuget库
 
 1. 登录 nuget官网下载包

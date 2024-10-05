@@ -1,4 +1,11 @@
-# powershell实现子文件夹大小排序
+---
+title : 'powershell 实现子文件夹大小排序'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: [windows,powershell]
+categories: ['应用技术']
+---
+# powershell 实现子文件夹大小排序
 
 先上code：
 

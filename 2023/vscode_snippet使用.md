@@ -1,3 +1,10 @@
+---
+title : 'vscode 使用 - snippet'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: [vscode]
+categories: ['应用技术']
+---
 # vscode snippet使用
 
 ## 1. 打开方式

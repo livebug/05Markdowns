@@ -1,3 +1,10 @@
+---
+title : 'LogError 与 throw 的差异'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: ['C#']
+categories: ['应用技术']
+---
 # `LogError` 与 `throw` 的差异
 
 网上的回复：

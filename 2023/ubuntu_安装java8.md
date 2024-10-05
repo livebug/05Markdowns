@@ -1,3 +1,10 @@
+---
+title : 'ubuntu 安装java8'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: ['ubuntu','linux']
+categories: ['应用技术']
+---
 # ubuntu 安装java8.md
 
 ## 下载java jdk 

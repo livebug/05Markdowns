@@ -1,3 +1,10 @@
+---
+title : 'js ajax 基础介绍'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: ['javascript']
+categories: ['应用技术']
+---
 # AJAX 基础
 
 *入门：https://developer.mozilla.org/zh-CN/docs/Web/Guide/AJAX/Getting_Started*

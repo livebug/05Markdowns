@@ -1,6 +1,13 @@
-# codeserver使用
-
+---
+title : 'codeserver 介绍'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: ['codeserver']
+categories: ['应用技术']
+--- 
 # codeserver 启动和使用
+
+这个就是web端的的vscode，但是是开源社区的，不是微软的。
 
 ## 下载 github
 

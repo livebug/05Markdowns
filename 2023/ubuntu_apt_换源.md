@@ -1,3 +1,10 @@
+---
+title : 'ubuntu apt 换源'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: [ubuntu]
+categories: ['应用技术']
+---
 备份
 
 ```bash

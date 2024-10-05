@@ -1,4 +1,11 @@
-
+---
+title : 'docker_hive集群启动步骤'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: ['docker','hive']
+categories: ['应用技术']
+---
+# docker hive集群启动步骤
 
 ## 启动集群容器
 ```bash

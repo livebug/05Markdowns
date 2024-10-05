@@ -1,3 +1,10 @@
+---
+title : 'How to Install Microsoft Store on Windows 10 LTSC'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: [windows]
+categories: ['应用技术']
+---
 # How to Install Microsoft Store on Windows 10 LTSC
 
 转载自 <https://www.geeksforgeeks.org/how-to-add-install-microsoft-store-on-windows-10-ltsc-or-ltsb-editions/>

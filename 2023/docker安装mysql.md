@@ -1,3 +1,10 @@
+---
+title : 'Docker 安装 Mysql'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: ['docker','mysql']
+categories: ['应用技术']
+---
 # Docker 安装 Mysql
 
 1. 拉取最新镜像

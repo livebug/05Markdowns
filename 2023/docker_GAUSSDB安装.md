@@ -1,3 +1,11 @@
+---
+title : 'docker openGAUSS 安装'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: ['docker','opengauss']
+categories: ['应用技术']
+---
+# docker openGAUSS 安装
 [enmotech/opengauss - Docker Image | Docker Hub](https://hub.docker.com/r/enmotech/opengauss)
 
 拉取集群启动

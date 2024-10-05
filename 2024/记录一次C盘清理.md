@@ -1,3 +1,10 @@
+---
+title : '记录一次C盘清理'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: [windows]
+categories: ['应用技术']
+---
 # 记录一次C盘清理
 
 TreeSize 软件分析C盘：

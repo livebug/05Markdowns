@@ -1,4 +1,11 @@
-# Antlr 与 C\#
+---
+title : 'Antlr 与 C# 尝试'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: ['antlr4','C#']
+categories: ['应用技术']
+---
+# Antlr 与 C#
 
 ## antle4的g4文件生成
 

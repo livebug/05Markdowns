@@ -1,5 +1,9 @@
 ---
+title : 'Runtime API Examples'
+date : 2024-10-01T22:39:48+08:00
+toc: true
 outline: deep
+tags: [examples]
 ---
 
 # Runtime API Examples

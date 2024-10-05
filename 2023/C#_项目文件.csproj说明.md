@@ -1,3 +1,10 @@
+---
+title : ' C# .csproj 文件说明'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: ['C#']
+categories: ['应用技术']
+---
 # C# project file  `.csproj`
 
 ## Project 元素

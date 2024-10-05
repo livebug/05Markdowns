@@ -1,3 +1,10 @@
+---
+title : 'ECMAScript 6、2016、2017 介绍'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: ['javascirpt']
+categories: ['应用技术']
+---
 # ECMAScript 6、2016、2017
 
 ECMAScript是JavaScript的规格，JavaScript是ECMAScript的一种实现，在日常场合，这两个词是可以互换的。

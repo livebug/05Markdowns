@@ -1,3 +1,10 @@
+---
+title : 'ubuntu openssh 说明'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: [ubuntu]
+categories: ['应用技术']
+---
 # ubuntu-openssh说明
 
 ## OpenSSH Server

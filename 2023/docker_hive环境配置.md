@@ -1,7 +1,14 @@
+---
+title : 'docker hive 环境搭建'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: ['docker','hive']
+categories: ['应用技术']
+---
 # hive 环境搭建
 
 ## 1. 准备一个 mysql 容器 （因为镜像中不带mysql） 非常简单
-### 1.1 准备musql容器
+### 1.1 准备mysql容器
 ```bash
 # docker 中下载 mysql
 docker pull mysql:latest

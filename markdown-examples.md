@@ -1,3 +1,10 @@
+---
+title : 'Markdown Extension Examples'
+date : 2024-10-01T22:39:48+08:00
+toc: true
+tags: [examples]
+categories: ['应用技术']
+---
 # Markdown Extension Examples
 
 This page demonstrates some of the built-in markdown extensions provided by VitePress.

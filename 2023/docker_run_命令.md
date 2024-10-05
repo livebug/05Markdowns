@@ -1,3 +1,11 @@
+---
+title : 'docker run 命令介绍'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: ['docker']
+categories: ['应用技术']
+---
+# docker run 命令介绍
 ```json
 docker run [OPTIONS] IMAGE [COMMAND] [ARG...]
 ```

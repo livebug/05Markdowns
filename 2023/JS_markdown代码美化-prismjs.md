@@ -1,3 +1,10 @@
+---
+title : 'markdown代码美化-prismjs'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: ['javascript','prismjs']
+categories: ['应用技术']
+---
 # markdown代码美化-prismjs
 
 ### 实例代码

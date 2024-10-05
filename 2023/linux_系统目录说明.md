@@ -1,3 +1,10 @@
+---
+title : 'Linux 系统目录结构说明'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: ['linux']
+categories: ['应用技术']
+---
 # Linux 系统目录结构
 
 以下是对这些目录的解释：  

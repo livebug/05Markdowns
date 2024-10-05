@@ -1,3 +1,10 @@
+---
+title : 'wsl 安装 fedora'
+date : 2023-10-08T22:39:48+08:00
+toc: true
+tags: [wsl,fedora]
+categories: ['应用技术']
+---
 # wsl 安装 fedora
 
 # 初始化Fedora
