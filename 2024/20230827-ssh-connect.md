@@ -2,9 +2,7 @@
 title: ssh基本介绍和问题解答
 date: 2023-06-27 23:48:19
 toc: true
-tags:
-- ssh
-- linux
+tags: [ssh,linux] 
 categories: ['技术博客']
 ---
 
@@ -32,11 +30,13 @@ ssh user@remote -p port
 ```
 
 ### 怎么生成密钥 ？
+
 ```bash
 ssh-keygen -t rsa 
 ```
 
 ### 查看本机的ssh密钥公钥 ？
+
 ```bash
 -- windows 目录
 /c/Users/xxxx/.ssh
@@ -75,7 +75,7 @@ After=netfilter-persistent.service
 
 ```
 ### root安装的docker，普通用户无法使用  
-需要将普通用户增加到docker用户组，见[安装 docker - 权限问题]({{< ref "20230426-fedora-install-docker.md/#权限问题" >}} "安装 docker - 权限问题")
+需要将普通用户增加到docker用户组，见[安装 docker - 权限问题]( "安装 docker - 权限问题")
 
 ```bash
 permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get "http://%2Fvar%2Frun%2Fdocker.sock/v1.24/containers/json": dial unix /var/run/docker.sock: connect: permission denied
